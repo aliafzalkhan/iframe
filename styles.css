@@ -1,0 +1,25 @@
+
+    * {
+        margin: auto;
+        padding: auto;
+    }
+    
+    .box {
+        border: 1px solid black;
+        display: flex;
+    }
+    
+    object {
+        border: 2px solid rgb(78, 233, 137);
+    }
+    
+    body {
+        background-color: rgb(174, 247, 247);
+    }
+    
+    .heading {
+        border-bottom: 5px solid blue;
+        font-size: 50px;
+        font-weight: 700;
+        text-align: center;
+    }
